@@ -1,4 +1,4 @@
-## Requisitos não funcionais
+## REQUISITOS NÃO FUNCIONAIS
 
 ### RNF001
 O sistema não deve permitir alteração de pedidos com status diferente de rascunho.
