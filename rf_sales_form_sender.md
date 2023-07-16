@@ -1,4 +1,4 @@
-## Requisitos Funcionais
+## REQUISITOS FUNCIONAIS
 
 ### RF001
 O sistema deve permitir criação de pedidos.
