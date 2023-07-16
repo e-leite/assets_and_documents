@@ -5,7 +5,7 @@ Atualmente, para enviar os pedidos ao departamento de atendimento os vendedores 
 
 A solução buscada pela empresa é o desenvolvimento de uma plataforma onde através do notebook ou smartphone o vendedor possa criar seu pedido de vendas apenas selecionando o cliente, produto, preço e posteriormente enviar para o departamento de atendimento  através de função disponível no software.
 
-Espera-se uma solução que forneça:
+### Espera-se uma solução que forneça:
 
 ## Criação de pedidos:
 
